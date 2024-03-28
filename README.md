@@ -16,7 +16,7 @@ I have interest in to offer my knowledge with the aim of leaving a positive impa
 
 **🧰 Tools:**
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,bootstrap,git,github,vscode,idea,py,tensorflow,md,latex,java,maven,spring,mysql,bash,linux,azure&perline=10)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,vscode,idea,pycharm,py,tensorflow,md,latex,java,maven,gradle,spring,mysql,mongo,postman,bash,windows,linux,aws,azure&perline=9)
 
 **😄 Pronouns:**
 
