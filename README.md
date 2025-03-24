@@ -1,29 +1,29 @@
-### Hi there 👋
+# Hi there 👋
 
 Hello! 👋🏻 My name is **Daniel Santanilla**.
 
-I’m Student 📚 **Student with a focus on Artificial Intelligence at the Julio Garavito Colombian School of Engineering**.
-
-I’m currently learning Software Engineering 💻
+I’m Full Stack Deloper 📚 **with a focus on Artificial Intelligence**.
 
 I have interest in to offer my knowledge with the aim of leaving a positive impact on society! 🙋
 
-**🚀 Skills:**
+## 🚀 Skills:
 
 * Teamwork
 * Web Development
 * Project Management
 
-**🧰 Tools:**
+## 🧰 Tools:
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,vscode,idea,pycharm,py,tensorflow,md,latex,java,maven,gradle,spring,mysql,mongo,postman,bash,windows,linux,aws,azure&perline=9)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,tailwind,bootstrap,figma,git,github,githubactions,vscode,idea,pycharm,py,fastapi,tensorflow,java,maven,gradle,spring,graphql,postman,md,latex,mysql,mongodb,dynamodb,elasticsearch,windows,bash,linux,docker,terraform,aws,azure&perline=18)
 
-**😄 Pronouns:**
+## 😄 Pronouns:
 
 * He/Him
 
-**⚡Fun fact:**
+## ⚡Fun fact:
 
 * I love to play video games and learn.
+
+## Social Media
 
 [![GitHub](https://skillicons.dev/icons?i=github)](https://www.github.com/ELS4NTA/) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/daniel-antonio-santanilla-arias-els4nta/) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/daniel_antoni03/)
