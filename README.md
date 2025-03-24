@@ -2,7 +2,7 @@
 
 Hello! 👋🏻 My name is **Daniel Santanilla**.
 
-I’m Full Stack Deloper 📚 **with a focus on Artificial Intelligence**.
+I’m Full Stack Deloper **with a focus on Artificial Intelligence** 📚. 
 
 I have interest in to offer my knowledge with the aim of leaving a positive impact on society! 🙋
 
@@ -10,6 +10,7 @@ I have interest in to offer my knowledge with the aim of leaving a positive impa
 
 * Teamwork
 * Web Development
+* Backend Development
 * Project Management
 
 ## 🧰 Tools:
