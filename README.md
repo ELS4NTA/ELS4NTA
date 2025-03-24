@@ -14,7 +14,7 @@ I have interest in to offer my knowledge with the aim of leaving a positive impa
 
 ## 🧰 Tools:
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,tailwind,bootstrap,figma,git,github,githubactions,vscode,idea,pycharm,py,fastapi,tensorflow,java,maven,gradle,spring,graphql,postman,md,latex,mysql,mongodb,dynamodb,elasticsearch,windows,bash,linux,docker,terraform,aws,azure&perline=18)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,tailwind,bootstrap,figma,git,github,githubactions,vscode,idea,pycharm,py,fastapi,tensorflow,java,maven,gradle,spring,graphql,postman,md,latex,mysql,mongodb,dynamodb,elasticsearch,windows,bash,linux,docker,terraform,aws,azure&perline=12)
 
 ## 😄 Pronouns:
 
